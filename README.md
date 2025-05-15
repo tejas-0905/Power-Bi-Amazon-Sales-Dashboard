@@ -1,2 +1,17 @@
 # Power-Bi-Amazon-Sales-Dashboard
 The project presents an interactive Power BI dashboard analyzing Amazon's sales data.
+
+# Problem Statement 
+## KPI's Requirement 
+YTD Sales : Monitor year-to-date sales to gauge the overall revenue performance over time.
+QTD Sales : Track quarterly sales figures to identify sales trends and fluctuations.
+YTD Product Sold : Analyse the total number of products sold throughout the year to understand product movement.
+YTD Reviews : Keep tabs on year-to-date product reviews to assess customer feedback and satisfaction.
+
+# Tools & Technologies
+Microsoft Power BI
+Power Query for data transformation
+DAX for calculated measures and KPIs
+
+# Conclusion
+This Power BI project demonstrates the ability to transform raw sales data into meaningful insights through interactive visualizations. It serves as a valuable tool for stakeholders to understand business performance and make informed decisions
