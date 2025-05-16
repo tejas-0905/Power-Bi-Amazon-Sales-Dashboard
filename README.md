@@ -13,5 +13,3 @@ Microsoft Power BI
 Power Query for data transformation
 DAX for calculated measures and KPIs
 
-# Conclusion
-This Power BI project demonstrates the ability to transform raw sales data into meaningful insights through interactive visualizations. It serves as a valuable tool for stakeholders to understand business performance and make informed decisions
